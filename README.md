@@ -1,2 +1,2 @@
-# Scripting-OsloMet-v-ren-2026-H-vard-Elgsaas
-Scripting OsloMet våren 2026, Håvard Elgsaas
+# Scripting-OsloMet-vaaren-2026-Haavard-Elgsaas
+1. Added exercises 1 about the terminal and Docker on 20.01.2026

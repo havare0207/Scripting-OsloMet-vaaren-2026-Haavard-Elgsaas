@@ -1,0 +1,18 @@
+name:str = "hello"
+name = 5
+"""Takes a string and set the string to a numbr with Type Hinting, gives an error in IDEs"""
+
+age:int="32"
+"""Takes a int and set the age to a string with Type Hinting, gives an error in IDEs"""
+
+
+temps:list[int] = [1,2,3.3]
+"""Takes a list with int and set one of the numbers to float. Type Hinting gives an error in IDEs"""
+
+
+print (name)
+
+def add(a: int, b: int):
+    return a+b
+
+print(add("hello", "hj"))
